@@ -32,6 +32,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
+						<server>$(server)</server>
 						<muleVersion>4.4.0</muleVersion>
 						<username>chaithanya_oct10</username>
 						<password>Chaithu@516</password>
